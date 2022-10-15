@@ -1,0 +1,10 @@
+.quizItems {
+    border: 2px solid gray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.quizItems:hover {
+    background-color: lightblue;
+}

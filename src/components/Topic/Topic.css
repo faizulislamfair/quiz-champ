@@ -1,0 +1,47 @@
+/* .topic {
+    margin: auto;
+    padding: 0;
+    overflow-x: hidden;
+    width: 50%;
+    height: 50%;
+} */
+
+
+.topic {
+    border: 2px solid goldenrod;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+
+.topic img {
+    background-color: #cbd5db;
+}
+
+.card-body {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* .card-body button {
+    border: 2px solid grey;
+    border-radius: 20px;
+    padding: 10px;
+} */
+
+/* .card-body button:hover {
+    background-color: #DAB691;
+    color: #ffffff;
+} */
+
+
+/* .text a {
+    text-decoration: none;
+} */
+/* 
+.card-body a:hover {
+    color: #ffffff;
+} */
